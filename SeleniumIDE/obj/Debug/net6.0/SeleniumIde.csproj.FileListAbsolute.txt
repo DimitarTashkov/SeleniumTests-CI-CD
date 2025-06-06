@@ -101,3 +101,4 @@ C:\Users\mitko\source\repos\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exerci
 C:\Users\mitko\source\repos\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exercise-CI-CD-GitHub-Actions-Resources\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.pdb
 C:\Users\mitko\source\repos\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exercise-CI-CD-GitHub-Actions-Resources\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.genruntimeconfig.cache
 C:\Users\mitko\source\repos\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exercise-CI-CD-GitHub-Actions-Resources\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\ref\SeleniumIde.dll
+C:\Users\mitko\source\repos\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exercise-CI-CD-GitHub-Actions-Resources\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
